@@ -1,5 +1,0 @@
-#### Teste de Carga do Handler:
-```bash
-# Execute DiscordHandler.py diretamente
-python DiscordHandler.py
-```
